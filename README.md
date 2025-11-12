@@ -17,8 +17,10 @@ shatshumbrega/
 |   ├── shat7_TokenCount.js            # Cria um contador de tokens
 |   ├── shat8_ProximoToken.js          # Aplica Cadeias de Markov
 |   ├── shat9_GerandoResposta.js       # Gera respostas a partir de Markov
-|   ├── shat10_DoMeio.js               # Encontra um assunto na frase
-|   └── shat10_DoMeio2.js
+|   |
+|   |   # Implementações adicionais
+|   ├── shat91_DoMeio.js               # Encontra um assunto na frase
+|   └── shat92_DoMeio2.js
 |
 ├── LICENSE                            # Licença MIT
 ├── README.md                          # Documentação
