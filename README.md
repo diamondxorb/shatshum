@@ -7,17 +7,19 @@ Chatbot simples desenvolvido com **Cadeias de Markov** para o workshop de Inteli
 ```
 shatshumbrega/
 ├── Versões                            # Pasta com todas versões da implementação
-    ├── shat1_Constant.js
-    ├── shat2_Ring.js
-    ├── shat3_Random.js
-    ├── shat4_AprendeFrase.js
-    ├── shat5_Tokens.js
-    ├── shat6_Regex.js
-    ├── shat7_TokenCount.js
-    ├── shat8_ProximoToken.js
-    ├── shat9_GerandoResposta.js
-    ├── shat10_DoMeio.js
-    └── shat10_DoMeio2.js
+|   |
+|   ├── shat1_Constant.js              # Gera uma resposta padrão
+|   ├── shat2_Ring.js                  # Faz um círculo entre as respostas
+|   ├── shat3_Random.js                # Escolhe frases aleatoriamente
+|   ├── shat4_AprendeFrase.js          # Inclui a frase do usuário
+|   ├── shat5_Tokens.js                # Divide a frase em tokens
+|   ├── shat6_Regex.js                 # Aplica o regex nos tokens
+|   ├── shat7_TokenCount.js            # Cria um contador de tokens
+|   ├── shat8_ProximoToken.js          # Aplica Cadeias de Markov
+|   ├── shat9_GerandoResposta.js       # Gera respostas a partir de Markov
+|   ├── shat10_DoMeio.js               # Encontra um assunto na frase
+|   └── shat10_DoMeio2.js
+|
 ├── LICENSE                            # Licença MIT
 ├── README.md                          # Documentação
 ├── shatshum_ui.js                     # Integração entre a UI e as versões
