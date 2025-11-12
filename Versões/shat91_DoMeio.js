@@ -69,6 +69,8 @@ export function gerar_resposta(input) {
     let output = [];
     let tokenSeguinte = "";
     let tokenAnterior = "";
+
+    output.push(tokenMeio);
     
     let tokenAtual = tokenMeio;
     do {
