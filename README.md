@@ -5,7 +5,7 @@ Chatbot simples desenvolvido com **Cadeias de Markov** para o workshop de Inteli
 ## 📁 Estrutura do Projeto
 
 ```
-shatshumbrega/
+shatshum/
 ├── Versões                            # Pasta com todas versões da implementação
 |   |
 |   ├── shat1_Constant.js              # Gera uma resposta padrão
